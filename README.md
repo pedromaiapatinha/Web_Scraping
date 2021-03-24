@@ -1,4 +1,4 @@
-# Web Scraping Project - Retrieving Mobile Apps Reviews
+# Web Scraping Project - Retrieving Mobile App Reviews
 
 
 ## Table of Content
